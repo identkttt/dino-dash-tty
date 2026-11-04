@@ -1,0 +1,7 @@
+# Build artifacts
+dino
+*.o
+*.out
+
+# macOS files
+.DS_Store
